@@ -1,1 +1,6 @@
 empresas DJ.xlsx
+.gitignore
+README.md
+/node_modules
+package-lock.json
+package.json
