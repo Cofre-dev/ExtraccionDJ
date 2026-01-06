@@ -45,6 +45,3 @@ Sube el archivo en la aplicación y presiona "Iniciar Extracción".
 
 ⚠️ Nota Importante
 Este software es una herramienta de automatización que interactúa con un sitio web gubernamental. El uso excesivo o abusivo podría resultar en bloqueos temporales de IP por parte del SII. Úsalo con responsabilidad.
-
-📄 Licencia
-Este proyecto está bajo la Licencia MIT.
