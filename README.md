@@ -1,5 +1,5 @@
 Extracción DJ - SII Chile
-Herramienta automatizada para la extracción masiva del estado de las Declaraciones Juradas (DJ) del año 2025 (Puedes modificar el año) desde el portal del Servicio de Impuestos Internos (SII) de Chile.
+Herramienta automatizada para la extracción masiva del estado de las Declaraciones Juradas (DJ) del año 2025 (Puedes modificar el año) desde el Servicio de Impuestos Internos (SII).
 
 Este proyecto permite cargar una lista de empresas mediante un archivo Excel, realizar el login automático en el SII para cada una, extraer el estado de sus declaraciones juradas (código, descripción, fecha de presentación) 
 y visualizar los resultados en un dashboard moderno, con opción a exportar toda la información consolidada a un archivo excel.
@@ -45,6 +45,3 @@ Sube el archivo en la aplicación y presiona "Iniciar Extracción".
 
 ⚠️ Nota Importante
 Este software es una herramienta de automatización que interactúa con un sitio web gubernamental. El uso excesivo o abusivo podría resultar en bloqueos temporales de IP por parte del SII. Úsalo con responsabilidad.
-
-📄 Licencia
-Este proyecto está bajo la Licencia MIT.
